@@ -12,4 +12,4 @@
 
 这些站点通常提供在线播放和磁力下载两种方式。对于喜欢在线观看的用户，可以直接选择在线播放，而对于需要下载的用户，磁力链接则提供了更高的下载速度和质量保证。此外，很多资源站会保证观看流畅，不会出现卡顿现象，尤其是针对手机、电脑等不同设备，用户可以在任何设备上享受无缝体验。
 
-<span style="display:none;">[Canonical link](）</span>
+<span style="display:none;">[Canonical link]( https://github.com/jd20250707/jd6 ）</span>
